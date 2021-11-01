@@ -99,3 +99,9 @@ Alternatively, download the `sodalite.css` file to you vault's `.obsidian/themes
 **v0.1**
 
 - Initial release.
+
+# Todo
+
+- [ ] Fix colors of checkboxes
+- [ ] Round corners of checkboxes
+- [ ] Fix checklist plugin
